@@ -19,6 +19,7 @@ let singer = {
 };
 
 //mostrando saida com ponto .
+console.log(singer.nome)
 //mostrando o aarquivo com colcletes []
 
 console.log(' O cantor ' + singer ['nome'] + ' ' + singer['lastname'] + ' possui ' + singer ['age'] + ' anos.') ;
